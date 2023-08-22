@@ -1,7 +1,7 @@
 This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.11.14)  21 AUG 2023 20:27
 entering extended mode
-**./template.tex
-(template.tex
+**"./The Basics - Calisthenics Workout.tex"
+(The Basics - Calisthenics Workout.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> xparse <2020-03-03>
 (C:\Users\awtorode\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -823,8 +823,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \c@workout=\count319
 \c@exercise=\count320
- (template.aux)
-\openout1 = `template.aux'.
+ (The Basics - Calisthenics Workout.aux)
+\openout1 = `"The Basics - Calisthenics Workout.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
 LaTeX Font Info:    ... okay on input line 65.
@@ -926,31 +926,34 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 65.
 LaTeX Info: Redefining \pageref on input line 65.
 LaTeX Info: Redefining \nameref on input line 65.
- (template.out) (template.out)
+ (The Basics - Calisthenics Workout.out)
+(The Basics - Calisthenics Workout.out)
 \@outlinefile=\write6
-\openout6 = `template.out'.
+\openout6 = `"The Basics - Calisthenics Workout.out"'.
 
  [1
 
-{C:/Users/awtorode/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (template.au
-x)
-Package rerunfilecheck Info: File `template.out' has not changed.
+{C:/Users/awtorode/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (The Basics 
+- Calisthenics Workout.aux)
+Package rerunfilecheck Info: File `"The Basics - Calisthenics Workout".out' has
+ not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  26347 strings out of 479334
- 524831 string characters out of 2855658
- 881795 words of memory out of 3000000
+ 525573 string characters out of 2855658
+ 881901 words of memory out of 3000000
  43366 multiletter control sequences out of 15000+200000
  404679 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 112i,8n,116p,445b,1788s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 112i,8n,116p,472b,1788s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\awtorode\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
 crm1000.pk><C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx10.pfb><C:/Users/awtorode/AppData/Local/Programs/MiKTeX/fonts/t
 ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/awtorode/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on template.pdf (1 page, 66599 bytes).
+Output written on "The Basics - Calisthenics Workout.pdf" (1 page, 66599 bytes)
+.
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 500000)
