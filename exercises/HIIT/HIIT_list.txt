@@ -1,0 +1,31 @@
+Exercise,Description
+Jumping Jacks,Jump and spread legs while raising arms overhead, then return to starting position.
+Power Jacks,Similar to jumping jacks, adding a squat at the bottom and explosive jump.
+Skater Jumps,Jump side to side, mimicking a skater's motion.
+Star Jumps,Explosive jump while extending arms and legs in star shape.
+Jump Rope,Simulate rope jumping motion for a cardio workout.
+Burpees,Combines squat, push-up, and jump into a fluid movement.
+Mountain Climbers,Alternating knee drives while in a plank position.
+In and Outs,While in a push up position, jump both feet towards chest and return.
+High Knees,Running in place while lifting knees to hip height.
+Jump Squats,Squat and explosively jump, landing softly back into a squat.
+Squat Jumps,Squat and jump, engaging lower body muscles.
+Push-Ups,Upper body exercise where you lower and raise your body using your arms.
+Plyo Push-Ups,Push off explosively in push-up to lift hands off ground.
+Spiderman Push-Ups,Combines push-ups with bringing knee towards elbow during the movement.
+Bicycle Crunches,Pedal motion while lying on your back, engaging core.
+Russian Twists,Seated twists, touching the floor beside your hips with hands.
+Plank Jacks,From plank position, jump feet out and in, engaging core and shoulders.
+Plank Hold,Maintaining a straight-arm plank position to engage core.
+Plank Knee to Elbow,Bring knees toward opposite elbows in plank position.
+High Plank Shoulder Taps,In a high plank, touch opposite shoulders with each hand.
+Cross Climbers,Alternating knee-to-chest motion in plank position.
+Lunge Jumps,Alternating lunge position with a jump in between.
+Alternating Reverse Lunges,Step back into lunges, alternating legs.
+Butt Kicks,Jogging while kicking heels up towards glutes.
+Tricep Dips,Using a bench or chair to work triceps by lowering and raising body.
+Wall Sit,Sitting against a wall with knees bent at a 90-degree angle.
+Fast Feet,Quick steps in place, similar to a running motion.
+Tuck Jumps,Explosive jumps while tucking knees towards chest.
+Box Jumps,Jumping onto a box or platform and landing softly.
+Sprint in Place,Running motion in place at high speed.
