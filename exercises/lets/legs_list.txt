@@ -1,0 +1,31 @@
+Exercise,Description
+Squats,Stand with feet shoulder-width apart, lower hips down as if sitting, then stand back up.
+Front Squats,Similar to squats, but with a barbell resting on the front of the shoulders.
+Back Squats,Squat with the barbell placed behind the neck on the upper traps.
+Sumo Squats,Wide stance squat with toes pointed outward, targeting inner thighs.
+Goblet Squats,Hold a dumbbell or kettlebell close to chest while squatting.
+Bulgarian Split Squats,Step one foot back and lunge, with the back foot elevated.
+Lunges,Step forward or backward into a lunge position, alternating legs.
+Box Jumps,Jump onto a box or platform, focusing on explosive power.
+Deadlifts,Lift a barbell from the ground while maintaining a straight back and engaging hips and legs.
+Romanian Deadlifts,Hinge at hips while holding a barbell, keeping legs straight and back flat.
+Leg Press,Using a leg press machine, press the weight upward using legs.
+Calf Raises,Stand on the edge of a raised surface and lift heels to work calf muscles.
+Step-Ups,Step onto a bench or platform, alternating legs, to engage legs and glutes.
+Wall Sits,Lean against a wall with knees bent at a 90-degree angle to work quads.
+Hamstring Curls,Using a machine or stability ball, curl legs toward glutes to work hamstrings.
+Leg Extensions,Using a machine, extend legs outward to work quadriceps.
+Glute Bridges,Lie on your back, lift hips off the ground to engage glutes and hamstrings.
+Hip Thrusts,Sit against a bench, roll barbell over hips, lift hips up to engage glutes.
+Good Mornings,Hinge at hips while holding a barbell, engaging hamstrings and lower back.
+Calf Raises on Leg Press Machine,Using leg press machine, perform calf raises by pressing with toes.
+Hack Squats,Using a hack squat machine, perform squats with support on your shoulders.
+Pistol Squats,Single-leg squat, extending one leg forward while squatting on the other.
+Seated Leg Curls,Using a machine, curl legs toward glutes while seated.
+Sissy Squats,Lean back while squatting on toes to target quads.
+Side Lunges,Step laterally into a lunge, alternating sides to engage inner and outer thighs.
+Cable Kickbacks,Using a cable machine, kick legs back to engage glutes.
+Inner Thigh Machine,Using an inner thigh machine, squeeze legs together to target inner thighs.
+Outer Thigh Machine,Using an outer thigh machine, move legs outward to target outer thighs.
+Ankle Hops,Hop on one foot while using ankle weights to work calf muscles.
+Single-Leg Leg Press,Using leg press machine, press weight using one leg at a time.
