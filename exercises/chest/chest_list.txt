@@ -1,0 +1,25 @@
+Exercise,Description
+Bench Press,Lie on a bench and lift a barbell off a rack, lowering it to your chest and pressing it back up.
+Incline Bench Press,Similar to bench press, but on an inclined bench to target the upper chest.
+Dumbbell Flyes,Lie on a bench and hold dumbbells, open arms wide, then bring them together in a hugging motion.
+Push-Ups,Place hands on the ground, lower and raise your body using your arms.
+Wide Grip Push-Ups,Perform push-ups with hands positioned wider than shoulder-width apart.
+Close Grip Push-Ups,Perform push-ups with hands close together, focusing on triceps and inner chest.
+Decline Push-Ups,Feet elevated and hands on the ground, perform push-ups to target lower chest.
+Chest Dips,Using parallel bars, lower and raise your body to work the chest and triceps.
+Chest Press Machine,Using a chest press machine, press the handles forward while seated.
+Cable Crossovers,Stand in front of cable pulleys, cross arms in front of you to work on chest contraction.
+Dips,Using parallel bars, perform dips to target chest and triceps.
+Medicine Ball Push-Ups,Place hands on a medicine ball while doing push-ups to challenge stability.
+Plyometric Push-Ups,Push off the ground explosively during push-ups to engage fast-twitch muscle fibers.
+Single-Arm Dumbbell Press,Lie on a bench and press one dumbbell at a time, focusing on each side.
+Incline Dumbbell Press,Similar to dumbbell press, but on an inclined bench to target upper chest.
+Diamond Push-Ups,Perform push-ups with hands close together in a diamond shape to target triceps and inner chest.
+Isometric Chest Squeeze,Hold a stability ball between hands and squeeze, engaging chest muscles.
+Chest Squeeze Push-Ups,Perform push-ups while squeezing a ball between hands to engage chest muscles.
+Wide Grip Bench Press,Bench press with a wider hand placement to target outer chest.
+Cable Chest Press,Using cable machine, press handles forward to work chest muscles.
+Resistance Band Chest Press,Anchor resistance bands and perform pressing motion to work chest.
+Barbell Pullover,Lie on a bench and hold a barbell overhead, lower it behind head and lift back up.
+Dumbbell Pullover,Similar to barbell pullover, but using dumbbells for added variation.
+Wide Push-Ups,Perform push-ups with hands placed wider than shoulder-width apart.
