@@ -10,7 +10,7 @@ const README_FILENAME = 'README.md';
 const NB_IMAGES_PER_LINE = 4;
 
 let nbImages = 0;
-let mdContent = '# Workout Images\n\n<table><tr>';
+let mdContent = '# Workouts\n\n<table><tr>';
 
 function processDirectory(directory) {
   fs.readdirSync(directory).forEach((entry) => {
