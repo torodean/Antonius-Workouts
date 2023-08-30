@@ -1,0 +1,31 @@
+Exercise,Description
+Bicep Curls,Hold dumbbells, curl them towards your shoulders, engaging biceps.
+Hammer Curls,Hold dumbbells with a neutral grip, curl them towards shoulders.
+Preacher Curls,Using a preacher curl bench, curl barbell or dumbbells with support.
+Concentration Curls,Sit with elbow against inner thigh, curl dumbbell towards shoulder.
+Chin-Ups,Palms facing you, pull body up using biceps and back muscles.
+Pull-Ups,Palms facing away, pull body up using primarily back muscles and biceps.
+Barbell Rows,Hold barbell with palms down, row it towards your lower chest.
+Seated Rows,Using a cable machine, pull handles towards your torso while seated.
+Tricep Dips,Using parallel bars, lower and raise your body to target triceps.
+Skull Crushers,Lie on a bench, lower barbell towards forehead, then extend arms.
+Tricep Kickbacks,Hinge at hips, extend arms behind you with dumbbells in hand.
+Close Grip Bench Press,Perform bench press with hands close together to target triceps.
+Diamond Push-Ups,Perform push-ups with hands close together in a diamond shape, targeting triceps.
+Tricep Rope Pushdowns,Using a cable machine, push rope attachment downward to engage triceps.
+Overhead Tricep Extensions,Hold dumbbell or barbell overhead, extend arms to work triceps.
+Wrist Curls,Hold dumbbell, curl wrist upward and downward to work forearms.
+Reverse Curls,Hold barbell with palms facing down, curl towards your shoulders to target forearms.
+Bicep Curl Machine,Using a bicep curl machine, curl handles towards shoulders.
+Tricep Extension Machine,Using a tricep extension machine, press handles downward to work triceps.
+Wrist Roller,Attach a weight to a rope, roll it up and down to strengthen forearms.
+Hammer Strength Rows,Using a Hammer Strength machine, perform rowing motion for back and biceps.
+EZ Bar Curls,Hold EZ bar, curl towards shoulders with hands in a semi-supinated grip.
+Zottman Curls,Hold dumbbells, curl them while rotating palms from supinated to pronated grip.
+Barbell Wrist Curls,Hold barbell with palms facing up, curl wrists to target forearms.
+Reverse Curl Machine,Using a reverse curl machine, curl handles towards shoulders to work forearms.
+Spider Curls,Lie face down on an incline bench, curl dumbbells towards shoulders.
+Tricep Bench Dips,Place hands on a bench, lower and raise your body to target triceps.
+Wrist Pronation/Supination,Hold a dumbbell, rotate wrist from palms up to palms down to work forearms.
+Hanging Leg Raises,Hang from a bar and raise legs, engaging core and arm muscles.
+Forearm Plank,Hold a plank position on forearms to engage core and arm muscles.
