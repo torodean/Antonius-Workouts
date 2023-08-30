@@ -1,0 +1,111 @@
+\documentclass{article}
+\usepackage[margin=1in]{geometry}
+\usepackage[most]{tcolorbox}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+% Define workout environment
+\newcounter{workout}
+\newtcolorbox[use counter=workout]{workoutbox}[1]{
+	colback=white,
+	colframe=blue!70,
+	fonttitle=\bfseries,
+	title=#1,
+	enhanced,
+	attach boxed title to top left={xshift=5mm,yshift=-2mm},
+	boxed title style={
+		size=small,
+		colback=blue!70,
+		colframe=blue!70,
+	},
+	drop shadow
+}
+
+% Define exercise environment with a muted green color
+\newcounter{exercise}
+\newtcolorbox[use counter=exercise]{exercisebox}{
+	colback=white,
+	colframe=green!40!black,
+	fonttitle=\bfseries,
+	title=Exercise \theexercise,
+	enhanced,
+	attach boxed title to top left={xshift=5mm,yshift=-2mm},
+	boxed title style={
+		size=small,
+		colback=green!40!black,
+		colframe=green!40!black,
+	},
+	drop shadow
+}
+
+% Set title formatting
+\renewcommand{\maketitle}{
+	\begin{center}
+		{\Huge\bfseries\thetitle}
+		
+		\vspace{0.5em}
+		
+		High-Intensity Circuit Workout
+		
+		\vspace{0.5em}
+		
+		Created on \thedate\hspace{0.5em}by Antonius Torode
+	\end{center}
+}
+
+% Remove page numbers
+\pagestyle{empty}
+
+\begin{document}
+	% Define a large border box around the page
+	\begin{tcolorbox}[colback=gray!15,colframe=black,enforce breakable,pad at break*=5mm,boxrule=0.5mm]
+		
+		\title{Full-Body Endurance Ladder 01}
+		\date{\today}
+		\maketitle
+		
+		This workout is designed to challenge your endurance and pacing. The goal is to maintain a consistent pace throughout the entire workout, without stopping for more than short rests. Break up each exercise into however many you can do while maintaining consistent rest periods to complete the set. 
+		
+		\begin{workoutbox}{Warm-up}
+			Begin with a few minutes of dynamic stretching to prepare your muscles. This warm-up will help increase blood flow and range of motion. \textbf{Perform three sets of the following!}
+			
+			\begin{itemize}[label=\textcolor{blue!70}{\textbullet}, itemsep=0pt]
+				\item Jumping jacks - 20 reps
+				\item Arm circles - 15 reps in each direction
+				\item Leg swings - 12 reps on each leg
+				\item Wrist Stretches - 15 seconds per wrist.
+			\end{itemize}
+		\end{workoutbox}
+		
+		Perform the following exercises in sequence. \textbf{Complete 20 reps of each exercise, then 18 reps, and continue decreasing by 2 reps until you reach 0.} Maintain a steady pace. Rest as needed, but aim for consistency. Break up each exercise with short rests to maintain a steady pace.
+		
+		\begin{exercisebox}
+			\textbf{Barbell Thrusters} - Adjust the weight for thrusters based on your experience level.
+		\end{exercisebox}
+		
+		\begin{exercisebox}
+			\textbf{Burpees} - Remove the push up component to reduce difficulty.
+		\end{exercisebox}
+		
+		\begin{exercisebox}
+			\textbf{Pull-ups} - Use resistance bands for assistance with pull-ups as needed. 
+		\end{exercisebox}
+		
+		\begin{workoutbox}{Cool-down}
+			After completing the workout, cool down your body with light activity and static stretching. \textbf{Perform two sets of the following!}
+			
+			\begin{itemize}[label=\textcolor{blue!70}{\textbullet}, itemsep=0pt]
+				\item Slow jog or brisk walk - 4 minutes
+				\item Hamstring stretch - 20 seconds per leg
+				\item Standing quad stretch - 20 seconds per leg
+				\item Shoulder stretch - 20 seconds per arm
+				\item Your preferred stretches - 1 minute
+			\end{itemize}
+		\end{workoutbox}
+		
+	\end{tcolorbox}
+	
+\end{document}

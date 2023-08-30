@@ -1,0 +1,23 @@
+# LaTeX files and build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.gz
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.xdv
+*.dvi
+*.pdf
+*.gz(busy)
