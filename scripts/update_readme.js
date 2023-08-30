@@ -1,29 +1,44 @@
 #!/usr/bin/env node
+
 const fs = require('fs');
 const path = require('path');
 
-const ROOT_DIR = './workouts/';
+// List of directories to process
+const ROOT_DIR = './workouts';
+
 const README_FILENAME = 'README.md';
+const NB_IMAGES_PER_LINE = 4;
 
-function getImagesRecursive(directory, images = []) {
-  fs.readdirSync(directory).forEach((item) => {
-    const itemPath = path.join(directory, item);
-    const stats = fs.statSync(itemPath);
+let nbImages = 0;
+let mdContent = '# Workout Images\n\n<table><tr>';
 
-    if (stats.isFile() && (item.endsWith('.jpg') || item.endsWith('.png'))) {
-      images.push(path.relative(ROOT_DIR, itemPath));
-    } else if (stats.isDirectory()) {
-      getImagesRecursive(itemPath, images);
+function processDirectory(directory) {
+  fs.readdirSync(directory).forEach((entry) => {
+    const entryPath = path.join(directory, entry);
+    const stats = fs.statSync(entryPath);
+
+    if (stats.isDirectory()) {
+      processDirectory(entryPath);
+    } else if (stats.isFile() && /\.(jpg|png)$/i.test(entry)) {
+      if (!(nbImages % NB_IMAGES_PER_LINE)) {
+        if (nbImages > 0) {
+          mdContent += '</tr>';
+        }
+        mdContent += '<tr>';
+      }
+      nbImages++;
+      mdContent += `
+<td valign="bottom">
+<img src="${path.relative(ROOT_DIR, entryPath)}" width="200"><br>
+${entry}
+</td>
+`;
     }
   });
-
-  return images;
 }
 
-const imageList = getImagesRecursive(ROOT_DIR);
-const mdContent = imageList.map((image) => {
-  return `![${image}](${image})`;
-}).join('\n');
+processDirectory(ROOT_DIR);
 
-fs.writeFileSync(path.join(ROOT_DIR, README_FILENAME), mdContent);
+mdContent += '</tr></table>';
 
+fs.writeFileSync(README_FILENAME, mdContent);
