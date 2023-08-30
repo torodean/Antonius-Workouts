@@ -1,5 +1,0 @@
-![calisthenics/The Basics - Calisthenics Workout/The Basics - Calisthenics Workout.jpg](calisthenics/The Basics - Calisthenics Workout/The Basics - Calisthenics Workout.jpg)
-![chest/Essential Chest Workout/Essential Chest Workout.jpg](chest/Essential Chest Workout/Essential Chest Workout.jpg)
-![core/Basic Core Strengthening Workout/Basic Core Strengthening Workout.jpg](core/Basic Core Strengthening Workout/Basic Core Strengthening Workout.jpg)
-![full-body/Full-Body Endurance Ladder 01/Full-Body Endurance Ladder 01.jpg](full-body/Full-Body Endurance Ladder 01/Full-Body Endurance Ladder 01.jpg)
-![full-body/Full-Body Endurance Ladder 02/Full-Body Endurance Ladder 02.jpg](full-body/Full-Body Endurance Ladder 02/Full-Body Endurance Ladder 02.jpg)
